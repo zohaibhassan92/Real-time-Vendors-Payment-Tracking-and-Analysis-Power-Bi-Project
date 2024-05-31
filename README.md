@@ -21,7 +21,7 @@ The goal of this project is to create a Power BI dashboard that allows users to 
 
 ## Project YouTube Link
 
-Watch the complete project walkthrough on [YouTube](https://youtu.be/g5sogGU0GHY).
+Watch the complete project walkthrough on [YouTube](https://youtu.be/g5sogGU0GHY).<br> <br>
 ![Alt Text](Screenshot.png)
 
 ## FeedBack
